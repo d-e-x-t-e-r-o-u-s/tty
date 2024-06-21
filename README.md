@@ -4,14 +4,7 @@ A lightweight travel split 34/36 keyboard with optional rotary encoders.
 end of the line in the D-E-X-T-E-R-O-U-S travel series (probably).
 This board is compatible with Kailh choc V1 and V2 switches.
 
-## D-E-X-T-E-R-O-U-S travel series
-
-My goal is to create a series of super lightweight split-ergo travel keyboards that can iteratively introduce people to compact split-ergo boards.
-Looking at a 34 key board when you're used to a full-size board usually leads to more than a few questions and comments regarding the sanity of it's users.
-My goal is to create a series of configurable pre-built boards that can help people find their ideal keycount.
-I've started at the end of the spectrum with a 34 key layout as it's the board I (Think I) want myself.
-
-## Features
+### Features
 
 -   Split 34/36 key layout
 -   Configurable with 1 or 2 rotary encoders
@@ -22,6 +15,15 @@ I've started at the end of the spectrum with a 34 key layout as it's the board I
 The third thumb-key on each side where the rotary-encoders can optionally be placed is a bit of a stretch if you use them as keys rather than encoders.
 As such this is really a 34 key keyboard with two optional keys for less-used macros (I personally use them for navigating vim/tmux windows).
 I'd advise against using these keys for mods or layer switching.
+
+## D-E-X-T-E-R-O-U-S travel series
+
+My goal is to create a series of super lightweight split-ergo travel keyboards that can iteratively introduce people to compact split-ergo boards.
+Looking at a 34 key board when you're used to a full-size board usually leads to more than a few questions and comments regarding the sanity of it's users.
+My goal is to create a series of configurable pre-built boards that can help people find their ideal keycount.
+I've started at the end of the spectrum with a 34 key layout as it's the board I (Think I) want myself.
+
+
 
 # D-E-X-T-E-R-O-U-S
 
